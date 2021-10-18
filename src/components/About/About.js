@@ -1,4 +1,5 @@
 import GitHubIcon from '@material-ui/icons/GitHub'
+import EmailIcon from '@material-ui/icons/Email'
 import { about } from '../../portfolio'
 import './About.css'
 
@@ -34,6 +35,23 @@ const About = () => {
                 className='link link--icon'
               >
                 <GitHubIcon />
+              </a>
+            )}
+
+            
+          </>
+        )}
+
+{social && (
+          <>
+            {social.email && (
+              <a
+              
+                href="mailto:me@pumpdev.org"
+                aria-label='email'
+                className='link link--icon'
+              >
+                <EmailIcon />
               </a>
             )}
 

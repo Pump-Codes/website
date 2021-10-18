@@ -11,7 +11,7 @@ const about = {
     'Hello my name is Pump, I am a developer. I have coding for around 2 years, I am currently specialized in web development, bot development, FiveM development, and Minecraft development.',
   social: {
     github: 'https://github.com/Pump-codes',
-    discord: 'https://github.com/Pump-codes',
+    email: 'me@pumpdev.org',
   },
 }
 
