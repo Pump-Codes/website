@@ -56,6 +56,7 @@ const skills = [
   'C++',
   'LUA',
   'MySQL',
+  'JSON',
 ]
 
 const contact = {
